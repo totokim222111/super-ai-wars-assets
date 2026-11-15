@@ -22,13 +22,13 @@
     },
     {
       "path": "ASSETS-PUBLISHING.md",
-      "size": 998,
-      "sha256": "b8ccd69d68f25493166dbdb5f894a22cd136560444ebd4204821ba9ae33723f0"
+      "size": 1213,
+      "sha256": "9b5279e9bc60c29201fc228789d93c9b292fbb947953a013c1e7942416299a6d"
     },
     {
       "path": "LICENSE",
-      "size": 3172,
-      "sha256": "37c1cf2c2cd24eeb28c2884b074a15ad21b7b294752ba8c973ae15a574df4bdf"
+      "size": 1932,
+      "sha256": "74d74ae8c1f4cb236d544a48557df9f07f32166bce077b777ea7d7d540f72612"
     },
     {
       "path": "pack/art/bg/battle-cyberspace.webp",
@@ -2857,18 +2857,18 @@
     },
     {
       "path": "README-ASSETS.md",
-      "size": 1845,
-      "sha256": "e0ae19621b166a85829bd5aa5cd6f06e1326cab3151429cf1c4bc0744dad9647"
+      "size": 2121,
+      "sha256": "62641807df27a3beb6688388182c7bbbc28244e16df238faa578039db065181f"
     },
     {
       "path": "README.md",
-      "size": 728,
-      "sha256": "498ebdca917e023b8f9cd47e1774d3cb65c250b451a344b4cdb951cd36a7eb84"
+      "size": 3146,
+      "sha256": "685571bb387ddcede51287f2ad15cae2d639c11bd2aa197d1d477ab88c4449c4"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
-      "size": 5147,
-      "sha256": "ad929a1c2ac851367274da553e913d16a7fc597050924209ff80845f37b3bed0"
+      "size": 5296,
+      "sha256": "8a08b9909d9a52a8afbb3ecfb2a3e45408dc98516bc9a994deb0dde021bce322"
     }
   ]
 }
