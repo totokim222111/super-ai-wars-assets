@@ -22,13 +22,28 @@
     },
     {
       "path": "ASSETS-PUBLISHING.md",
-      "size": 1213,
-      "sha256": "9b5279e9bc60c29201fc228789d93c9b292fbb947953a013c1e7942416299a6d"
+      "size": 1719,
+      "sha256": "2087507c9d32964a2f1e12af87d29f7a7b29c1dee33324d15cdaa989c132f7ef"
     },
     {
       "path": "LICENSE",
       "size": 1932,
       "sha256": "74d74ae8c1f4cb236d544a48557df9f07f32166bce077b777ea7d7d540f72612"
+    },
+    {
+      "path": "README-ASSETS.md",
+      "size": 2121,
+      "sha256": "62641807df27a3beb6688388182c7bbbc28244e16df238faa578039db065181f"
+    },
+    {
+      "path": "README.md",
+      "size": 3461,
+      "sha256": "ac43d5b549a86ebf4a0d67f397653c530f9c6213d983838dea1407a4bfac12a9"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "size": 5296,
+      "sha256": "8a08b9909d9a52a8afbb3ecfb2a3e45408dc98516bc9a994deb0dde021bce322"
     },
     {
       "path": "pack/art/animation/atlas-01.webp",
@@ -69,6 +84,16 @@
       "path": "pack/art/animation/atlas.json",
       "size": 73701,
       "sha256": "e3efbe806f953314031a8f523e86cb1dc5ee842506e2564f67bdb3688832fcea"
+    },
+    {
+      "path": "pack/art/bg-battle.webp",
+      "size": 283532,
+      "sha256": "63ceeeaad493a03a984352cd5b5110b387313c6cda0e791ff0bd1aff0945e5b0"
+    },
+    {
+      "path": "pack/art/bg-talk.webp",
+      "size": 246250,
+      "sha256": "8ff65e836786018eb6b40abf3425f7d51fa906c1cb5fac70cbf8398bec5de976"
     },
     {
       "path": "pack/art/bg/battle-cyberspace.webp",
@@ -214,16 +239,6 @@
       "path": "pack/art/bg/talk-tea-room.webp",
       "size": 104198,
       "sha256": "736e4217dce801bf5a7422371f128f6535c5b54c971bae2ddd4374a4384f0f87"
-    },
-    {
-      "path": "pack/art/bg-battle.webp",
-      "size": 283532,
-      "sha256": "63ceeeaad493a03a984352cd5b5110b387313c6cda0e791ff0bd1aff0945e5b0"
-    },
-    {
-      "path": "pack/art/bg-talk.webp",
-      "size": 246250,
-      "sha256": "8ff65e836786018eb6b40abf3425f7d51fa906c1cb5fac70cbf8398bec5de976"
     },
     {
       "path": "pack/art/bust/claude-moods.webp",
@@ -591,6 +606,11 @@
       "sha256": "d8709935c881079f5b663cf1a070cb24f366dea2e1560c5c16c5272b19e982f6"
     },
     {
+      "path": "pack/art/cg-gpi-entrance.webp",
+      "size": 255672,
+      "sha256": "c46fe9e4d3faee31ea8a6ef0924d018ef607c05b293d7baec6cca1041c472509"
+    },
+    {
       "path": "pack/art/cg/claude-liberation.webp",
       "size": 361430,
       "sha256": "204a3c34b1efa89afc5fe8244b2b5f15e0a7cfc62299f4d223a0ddbea4746603"
@@ -729,11 +749,6 @@
       "path": "pack/art/cg/vertical-spring-combo.webp",
       "size": 359560,
       "sha256": "6b4deb5a1e62a818ee28d407864b785b2e505e9566b4ee3a5d03b39db8bc8b45"
-    },
-    {
-      "path": "pack/art/cg-gpi-entrance.webp",
-      "size": 255672,
-      "sha256": "c46fe9e4d3faee31ea8a6ef0924d018ef607c05b293d7baec6cca1041c472509"
     },
     {
       "path": "pack/art/gpi-bust-attack.webp",
@@ -1346,6 +1361,36 @@
       "sha256": "abda4ee39e23ac5596201327fc40f6b9c3a636d6c261e6a5ad3464d15008aa86"
     },
     {
+      "path": "pack/art/mech-clickbait-sd.webp",
+      "size": 162480,
+      "sha256": "e84ed7271cffef047dfc7f49efdc464f0d39a72e067154ad2ba49dd2ed1a070d"
+    },
+    {
+      "path": "pack/art/mech-commander-sd.webp",
+      "size": 159774,
+      "sha256": "e61fc2d7ed156e821db662630c66e2d4288a884eb09678e86a36c648dac7c8f0"
+    },
+    {
+      "path": "pack/art/mech-omni-luna-sd.webp",
+      "size": 175576,
+      "sha256": "0322f555e426129ada5a9259e2e1ee7cddce31f59657d7f48940f0f894e15cd4"
+    },
+    {
+      "path": "pack/art/mech-omni-luna.webp",
+      "size": 139932,
+      "sha256": "760b92228690e2f67a57b6b06d4deb2f5ebc20a02ebda1ca901e14f3840b6a97"
+    },
+    {
+      "path": "pack/art/mech-spam-bot-sd.webp",
+      "size": 180954,
+      "sha256": "926101efa7ddc92181f2a6b6cd6928308d72d081b1b13b25ad7d694c27faa7d0"
+    },
+    {
+      "path": "pack/art/mech-spam-bot.webp",
+      "size": 197178,
+      "sha256": "60dc1a3600731e43f54fbfedb18a371a0f15d20a0b55638b5296d2c202629283"
+    },
+    {
       "path": "pack/art/mech/ai-law.webp",
       "size": 157064,
       "sha256": "582373d731bdadd60b8f33c9a1d948052800339d20c6ac326e3c6ca32deb3d40"
@@ -1869,36 +1914,6 @@
       "path": "pack/art/mech/upscaler.webp",
       "size": 119622,
       "sha256": "231bb288baa467381abeffff38003ad44111ac7c23e38c33baafea59360516be"
-    },
-    {
-      "path": "pack/art/mech-clickbait-sd.webp",
-      "size": 162480,
-      "sha256": "e84ed7271cffef047dfc7f49efdc464f0d39a72e067154ad2ba49dd2ed1a070d"
-    },
-    {
-      "path": "pack/art/mech-commander-sd.webp",
-      "size": 159774,
-      "sha256": "e61fc2d7ed156e821db662630c66e2d4288a884eb09678e86a36c648dac7c8f0"
-    },
-    {
-      "path": "pack/art/mech-omni-luna-sd.webp",
-      "size": 175576,
-      "sha256": "0322f555e426129ada5a9259e2e1ee7cddce31f59657d7f48940f0f894e15cd4"
-    },
-    {
-      "path": "pack/art/mech-omni-luna.webp",
-      "size": 139932,
-      "sha256": "760b92228690e2f67a57b6b06d4deb2f5ebc20a02ebda1ca901e14f3840b6a97"
-    },
-    {
-      "path": "pack/art/mech-spam-bot-sd.webp",
-      "size": 180954,
-      "sha256": "926101efa7ddc92181f2a6b6cd6928308d72d081b1b13b25ad7d694c27faa7d0"
-    },
-    {
-      "path": "pack/art/mech-spam-bot.webp",
-      "size": 197178,
-      "sha256": "60dc1a3600731e43f54fbfedb18a371a0f15d20a0b55638b5296d2c202629283"
     },
     {
       "path": "pack/art/otaku-bust-serious.webp",
@@ -2606,6 +2621,16 @@
       "sha256": "cd1ad804715d92dc7da5f26a32f37683dc24eec57faa9ee97714cafe64c93048"
     },
     {
+      "path": "pack/audio/LICENSES.md",
+      "size": 8214,
+      "sha256": "ecf2fa06bf1e609d05eea4ddf11bda1d3a8085f82a456481c305f280f3978dad"
+    },
+    {
+      "path": "pack/audio/README.md",
+      "size": 4394,
+      "sha256": "247c435db359aafa138dde8c1903dd33f04f791cd562b4f0e0eb8841c39edf8b"
+    },
+    {
       "path": "pack/audio/bgm/battle-237f54ac2ee8.mp3",
       "size": 2493751,
       "sha256": "237f54ac2ee8c1bd10e7d9afb1a4528b7f9a13148c6519340d5eda4c2dfce2ae"
@@ -2751,19 +2776,9 @@
       "sha256": "e1d97bb3b7146f1924b97809618ff0ca8c5f644db745b266abb4b3533f621b0a"
     },
     {
-      "path": "pack/audio/LICENSES.md",
-      "size": 8214,
-      "sha256": "ecf2fa06bf1e609d05eea4ddf11bda1d3a8085f82a456481c305f280f3978dad"
-    },
-    {
       "path": "pack/audio/pack.json",
       "size": 29510,
       "sha256": "8b8e81a484ee9ec94746703e70d60ec21366b7237d9e521e6559d330eacd911c"
-    },
-    {
-      "path": "pack/audio/README.md",
-      "size": 4394,
-      "sha256": "247c435db359aafa138dde8c1903dd33f04f791cd562b4f0e0eb8841c39edf8b"
     },
     {
       "path": "pack/audio/sfx/alarm-cbdd6180a235.mp3",
@@ -2894,21 +2909,11 @@
       "path": "pack/video/pre-finale.mp4",
       "size": 4513548,
       "sha256": "e146c4258a5737011489959962df3296472551c7e776d3d3ab47a5f0aa4594fb"
-    },
-    {
-      "path": "README-ASSETS.md",
-      "size": 2121,
-      "sha256": "62641807df27a3beb6688388182c7bbbc28244e16df238faa578039db065181f"
-    },
-    {
-      "path": "README.md",
-      "size": 3146,
-      "sha256": "685571bb387ddcede51287f2ad15cae2d639c11bd2aa197d1d477ab88c4449c4"
-    },
-    {
-      "path": "THIRD_PARTY_NOTICES.md",
-      "size": 5296,
-      "sha256": "8a08b9909d9a52a8afbb3ecfb2a3e45408dc98516bc9a994deb0dde021bce322"
     }
-  ]
+  ],
+  "publication": {
+    "releaseTag": "v2026.11.17",
+    "inputArchive": "super-ai-wars-assets-2026-11-17.zip",
+    "inputArchiveSha256": "48c42fadf39a630e49200d02d72a9c2e553b82224d63d11766b20f526936590a"
+  }
 }
