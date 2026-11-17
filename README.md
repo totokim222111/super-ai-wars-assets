@@ -2,7 +2,7 @@
 
 [슈퍼 AI 대전](https://github.com/totokim222111/super-ai-wars)에서 사용하는 그림·음악·효과음·시네마틱 영상입니다.
 
-2026-11-17 소스 공개본입니다. [소스 ZIP](https://github.com/totokim222111/super-ai-wars/releases/download/v2026.11.17/super-ai-wars-assets-2026-11-17.zip)과 [일반판·타입 O 미남판 실행 ZIP](https://github.com/totokim222111/super-ai-wars/releases/tag/v2026.11.17)을 받을 수 있습니다.
+2026-11-17 업데이트 2 소스 공개본입니다. [소스 ZIP](https://github.com/totokim222111/super-ai-wars/releases/download/v2026.11.17-r2/super-ai-wars-assets-2026-11-17.zip)과 [일반판·타입 O 미남판 실행 ZIP](https://github.com/totokim222111/super-ai-wars/releases/tag/v2026.11.17-r2)을 받을 수 있습니다.
 
 ## 게임을 실행하려면
 

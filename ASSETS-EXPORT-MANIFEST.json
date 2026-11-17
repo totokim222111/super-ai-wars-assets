@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "sourceCommit": "b567315e51108e8db8427e4e75754d4d34bb1e40",
-  "exportedAt": "2026-11-17T01:00:06.474Z",
+  "sourceCommit": "750ae3a7b8f1d4c5a584db9bedf6e9653ec2cf3d",
+  "exportedAt": "2026-11-17T06:02:56.589Z",
   "sourceMode": "tracked",
   "cleaning": {
     "paths": 0,
@@ -22,8 +22,8 @@
     },
     {
       "path": "ASSETS-PUBLISHING.md",
-      "size": 1719,
-      "sha256": "2087507c9d32964a2f1e12af87d29f7a7b29c1dee33324d15cdaa989c132f7ef"
+      "size": 1737,
+      "sha256": "613e9fe408fcfd701497df2b365659fcc8074dd67656475d857f34bbabb82ef5"
     },
     {
       "path": "LICENSE",
@@ -37,8 +37,8 @@
     },
     {
       "path": "README.md",
-      "size": 3461,
-      "sha256": "ac43d5b549a86ebf4a0d67f397653c530f9c6213d983838dea1407a4bfac12a9"
+      "size": 3482,
+      "sha256": "4f6a5ec104540e15eeb24349be822d113b39b0c25f2cf39a8155e6ba23e0d599"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -2912,8 +2912,8 @@
     }
   ],
   "publication": {
-    "releaseTag": "v2026.11.17",
+    "releaseTag": "v2026.11.17-r2",
     "inputArchive": "super-ai-wars-assets-2026-11-17.zip",
-    "inputArchiveSha256": "48c42fadf39a630e49200d02d72a9c2e553b82224d63d11766b20f526936590a"
+    "inputArchiveSha256": "faf4a8e0e00a224f93fbd1cfb5a3c58e81810582e73588e58b5cb55b9d527870"
   }
 }
