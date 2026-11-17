@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "sourceCommit": "c190bc9e6768c789584600b953aa5dbbb2983d37",
-  "exportedAt": "2026-11-15T03:53:21.461Z",
-  "sourceMode": "worktree",
+  "sourceCommit": "b567315e51108e8db8427e4e75754d4d34bb1e40",
+  "exportedAt": "2026-11-17T01:00:06.474Z",
+  "sourceMode": "tracked",
   "cleaning": {
     "paths": 0,
     "metadata": {
@@ -29,6 +29,46 @@
       "path": "LICENSE",
       "size": 1932,
       "sha256": "74d74ae8c1f4cb236d544a48557df9f07f32166bce077b777ea7d7d540f72612"
+    },
+    {
+      "path": "pack/art/animation/atlas-01.webp",
+      "size": 697096,
+      "sha256": "581af99784162406a90cace55d1efd0cb596844d0df32f0ef1ace4987a160ffe"
+    },
+    {
+      "path": "pack/art/animation/atlas-02.webp",
+      "size": 738180,
+      "sha256": "6ada892595e0dfef469b0fb678a61f41e296a8596756d52fae931bc347d8436d"
+    },
+    {
+      "path": "pack/art/animation/atlas-03.webp",
+      "size": 899144,
+      "sha256": "afc7688c69810cb9e545a6cf23a2f150c88baa5a69a0bc83cf5867ab54ec2a39"
+    },
+    {
+      "path": "pack/art/animation/atlas-04.webp",
+      "size": 771740,
+      "sha256": "6430d9d3cbe1314c6c6f687d75109911296b8cb517d8bfda1cd37a671d10a731"
+    },
+    {
+      "path": "pack/art/animation/atlas-05.webp",
+      "size": 777238,
+      "sha256": "29273b908165e2bf8183193a0fdcc666f040eb0753c3745993e28e3c1a18b3ad"
+    },
+    {
+      "path": "pack/art/animation/atlas-06.webp",
+      "size": 730104,
+      "sha256": "808aff3c4a4902f59c0853f35a7ccb17b0a8117301cac920f626c0f2cdd5aaea"
+    },
+    {
+      "path": "pack/art/animation/atlas-07.webp",
+      "size": 888818,
+      "sha256": "1c1ef2fffdb4d209d4ef42fdb65192f19b0d5bb0bc6492d4ab64c5b336819bfc"
+    },
+    {
+      "path": "pack/art/animation/atlas.json",
+      "size": 73701,
+      "sha256": "e3efbe806f953314031a8f523e86cb1dc5ee842506e2564f67bdb3688832fcea"
     },
     {
       "path": "pack/art/bg/battle-cyberspace.webp",

@@ -1,0 +1,3685 @@
+{
+  "version": 1,
+  "pages": {
+    "anim-atlas-01": {
+      "width": 2048,
+      "height": 2048,
+      "sha256": "581af99784162406a90cace55d1efd0cb596844d0df32f0ef1ace4987a160ffe",
+      "file": "art/animation/atlas-01.webp"
+    },
+    "anim-atlas-02": {
+      "width": 2048,
+      "height": 2048,
+      "sha256": "6ada892595e0dfef469b0fb678a61f41e296a8596756d52fae931bc347d8436d",
+      "file": "art/animation/atlas-02.webp"
+    },
+    "anim-atlas-03": {
+      "width": 2048,
+      "height": 2048,
+      "sha256": "afc7688c69810cb9e545a6cf23a2f150c88baa5a69a0bc83cf5867ab54ec2a39",
+      "file": "art/animation/atlas-03.webp"
+    },
+    "anim-atlas-04": {
+      "width": 2048,
+      "height": 2048,
+      "sha256": "6430d9d3cbe1314c6c6f687d75109911296b8cb517d8bfda1cd37a671d10a731",
+      "file": "art/animation/atlas-04.webp"
+    },
+    "anim-atlas-05": {
+      "width": 2048,
+      "height": 2048,
+      "sha256": "29273b908165e2bf8183193a0fdcc666f040eb0753c3745993e28e3c1a18b3ad",
+      "file": "art/animation/atlas-05.webp"
+    },
+    "anim-atlas-06": {
+      "width": 2048,
+      "height": 2048,
+      "sha256": "808aff3c4a4902f59c0853f35a7ccb17b0a8117301cac920f626c0f2cdd5aaea",
+      "file": "art/animation/atlas-06.webp"
+    },
+    "anim-atlas-07": {
+      "width": 2048,
+      "height": 2048,
+      "sha256": "1c1ef2fffdb4d209d4ef42fdb65192f19b0d5bb0bc6492d4ab64c5b336819bfc",
+      "file": "art/animation/atlas-07.webp"
+    }
+  },
+  "props": {
+    "fist": {
+      "art": "anim-atlas-06",
+      "rect": [
+        3,
+        521,
+        426,
+        512
+      ],
+      "sourceSize": [
+        851,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "keycap": {
+      "art": "anim-atlas-04",
+      "rect": [
+        3,
+        1601,
+        512,
+        437
+      ],
+      "sourceSize": [
+        1024,
+        874
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "enter-key": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1346,
+        3,
+        512,
+        368
+      ],
+      "sourceSize": [
+        1024,
+        736
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "hammer": {
+      "art": "anim-atlas-01",
+      "rect": [
+        3,
+        944,
+        785,
+        1024
+      ],
+      "sourceSize": [
+        785,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": true,
+      "grip": [
+        0.5,
+        0.93
+      ]
+    },
+    "wrench": {
+      "art": "anim-atlas-07",
+      "rect": [
+        3,
+        1472,
+        256,
+        203
+      ],
+      "sourceSize": [
+        512,
+        406
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.86,
+        0.79
+      ]
+    },
+    "chip": {
+      "art": "anim-atlas-05",
+      "rect": [
+        1401,
+        1500,
+        512,
+        446
+      ],
+      "sourceSize": [
+        1024,
+        892
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "cooler-fan": {
+      "art": "anim-atlas-04",
+      "rect": [
+        649,
+        3,
+        503,
+        512
+      ],
+      "sourceSize": [
+        1006,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "radiator": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1739,
+        1157,
+        256,
+        255
+      ],
+      "sourceSize": [
+        512,
+        510
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "plug": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1864,
+        3,
+        170,
+        256
+      ],
+      "sourceSize": [
+        341,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.5,
+        0.72
+      ]
+    },
+    "cable": {
+      "art": "anim-atlas-05",
+      "rect": [
+        521,
+        3,
+        512,
+        491
+      ],
+      "sourceSize": [
+        1024,
+        982
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "battery": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1163,
+        1524,
+        256,
+        148
+      ],
+      "sourceSize": [
+        512,
+        296
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "server": {
+      "art": "anim-atlas-01",
+      "rect": [
+        794,
+        944,
+        614,
+        768
+      ],
+      "sourceSize": [
+        819,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "drill": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1425,
+        1635,
+        256,
+        137
+      ],
+      "sourceSize": [
+        512,
+        274
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": false
+    },
+    "saw": {
+      "art": "anim-atlas-07",
+      "rect": [
+        3,
+        1681,
+        256,
+        178
+      ],
+      "sourceSize": [
+        512,
+        356
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.18,
+        0.78
+      ]
+    },
+    "gear": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1739,
+        895,
+        255,
+        256
+      ],
+      "sourceSize": [
+        510,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "anchor": {
+      "art": "anim-atlas-05",
+      "rect": [
+        1039,
+        3,
+        490,
+        512
+      ],
+      "sourceSize": [
+        979,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true,
+      "grip": [
+        0.5,
+        0.09
+      ]
+    },
+    "shield": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1557,
+        377,
+        360,
+        512
+      ],
+      "sourceSize": [
+        719,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true,
+      "grip": [
+        0.83,
+        0.45
+      ]
+    },
+    "sword": {
+      "art": "anim-atlas-07",
+      "rect": [
+        937,
+        1534,
+        142,
+        256
+      ],
+      "sourceSize": [
+        284,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.5,
+        0.93
+      ]
+    },
+    "dagger": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1085,
+        1778,
+        132,
+        256
+      ],
+      "sourceSize": [
+        265,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.54,
+        0.9
+      ]
+    },
+    "rapier": {
+      "art": "anim-atlas-02",
+      "rect": [
+        1934,
+        1301,
+        105,
+        256
+      ],
+      "sourceSize": [
+        210,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.5,
+        0.93
+      ]
+    },
+    "lance": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1871,
+        1289,
+        142,
+        256
+      ],
+      "sourceSize": [
+        283,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.5,
+        0.93
+      ]
+    },
+    "hairpin": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1701,
+        1289,
+        164,
+        256
+      ],
+      "sourceSize": [
+        329,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false,
+      "grip": [
+        0.56,
+        0.08
+      ]
+    },
+    "folding-fan": {
+      "art": "anim-atlas-07",
+      "rect": [
+        265,
+        1464,
+        256,
+        205
+      ],
+      "sourceSize": [
+        512,
+        410
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false,
+      "grip": [
+        0.5,
+        0.93
+      ]
+    },
+    "broom": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1811,
+        259,
+        234,
+        256
+      ],
+      "sourceSize": [
+        469,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false,
+      "grip": [
+        0.885,
+        0.105
+      ]
+    },
+    "shuriken": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1803,
+        1027,
+        240,
+        256
+      ],
+      "sourceSize": [
+        481,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "missile": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1701,
+        1551,
+        256,
+        146
+      ],
+      "sourceSize": [
+        512,
+        293
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": false
+    },
+    "bomb": {
+      "art": "anim-atlas-07",
+      "rect": [
+        527,
+        1004,
+        216,
+        256
+      ],
+      "sourceSize": [
+        431,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "satellite": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1439,
+        1275,
+        256,
+        188
+      ],
+      "sourceSize": [
+        512,
+        375
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "bike-wheel": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1557,
+        259,
+        248,
+        256
+      ],
+      "sourceSize": [
+        497,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "drum": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1819,
+        521,
+        219,
+        256
+      ],
+      "sourceSize": [
+        438,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "window": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1553,
+        775,
+        256,
+        246
+      ],
+      "sourceSize": [
+        512,
+        491
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "error-window": {
+      "art": "anim-atlas-07",
+      "rect": [
+        265,
+        1243,
+        256,
+        215
+      ],
+      "sourceSize": [
+        512,
+        430
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "terms-window": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1557,
+        521,
+        256,
+        248
+      ],
+      "sourceSize": [
+        512,
+        496
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "cursor": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1039,
+        748,
+        246,
+        256
+      ],
+      "sourceSize": [
+        493,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "magnifier": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1039,
+        1039,
+        496,
+        512
+      ],
+      "sourceSize": [
+        991,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true,
+      "grip": [
+        0.87,
+        0.87
+      ]
+    },
+    "bell": {
+      "art": "anim-atlas-07",
+      "rect": [
+        783,
+        758,
+        232,
+        256
+      ],
+      "sourceSize": [
+        465,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "badge-number": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1158,
+        3,
+        502,
+        512
+      ],
+      "sourceSize": [
+        1004,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "heart": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1541,
+        1027,
+        256,
+        242
+      ],
+      "sourceSize": [
+        512,
+        484
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "thumb": {
+      "art": "anim-atlas-07",
+      "rect": [
+        527,
+        1528,
+        188,
+        256
+      ],
+      "sourceSize": [
+        376,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "star": {
+      "art": "anim-atlas-04",
+      "rect": [
+        3,
+        591,
+        512,
+        502
+      ],
+      "sourceSize": [
+        1024,
+        1003
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "speech": {
+      "art": "anim-atlas-06",
+      "rect": [
+        3,
+        1557,
+        512,
+        406
+      ],
+      "sourceSize": [
+        1024,
+        811
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "mail": {
+      "art": "anim-atlas-05",
+      "rect": [
+        521,
+        1256,
+        256,
+        200
+      ],
+      "sourceSize": [
+        512,
+        400
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "link": {
+      "art": "anim-atlas-04",
+      "rect": [
+        521,
+        1039,
+        512,
+        496
+      ],
+      "sourceSize": [
+        1024,
+        992
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "cookie": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1691,
+        1680,
+        256,
+        252
+      ],
+      "sourceSize": [
+        512,
+        503
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "check-badge": {
+      "art": "anim-atlas-04",
+      "rect": [
+        649,
+        521,
+        502,
+        512
+      ],
+      "sourceSize": [
+        1004,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "coin": {
+      "art": "anim-atlas-02",
+      "rect": [
+        1551,
+        521,
+        492,
+        512
+      ],
+      "sourceSize": [
+        983,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "paper": {
+      "art": "anim-atlas-07",
+      "rect": [
+        967,
+        1272,
+        190,
+        256
+      ],
+      "sourceSize": [
+        381,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "scroll": {
+      "art": "anim-atlas-05",
+      "rect": [
+        1531,
+        982,
+        450,
+        512
+      ],
+      "sourceSize": [
+        901,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "book": {
+      "art": "anim-atlas-06",
+      "rect": [
+        521,
+        1557,
+        512,
+        392
+      ],
+      "sourceSize": [
+        1024,
+        783
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "stamp": {
+      "art": "anim-atlas-06",
+      "rect": [
+        435,
+        521,
+        398,
+        512
+      ],
+      "sourceSize": [
+        797,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true,
+      "grip": [
+        0.5,
+        0.12
+      ]
+    },
+    "gavel": {
+      "art": "anim-atlas-06",
+      "rect": [
+        839,
+        381,
+        334,
+        512
+      ],
+      "sourceSize": [
+        669,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": true,
+      "grip": [
+        0.5,
+        0.93
+      ]
+    },
+    "play-button": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1039,
+        1557,
+        512,
+        464
+      ],
+      "sourceSize": [
+        1024,
+        928
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "spinner": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1557,
+        1557,
+        252,
+        256
+      ],
+      "sourceSize": [
+        503,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "token": {
+      "art": "anim-atlas-05",
+      "rect": [
+        3,
+        991,
+        512,
+        476
+      ],
+      "sourceSize": [
+        1024,
+        951
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "pixel": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1557,
+        3,
+        256,
+        250
+      ],
+      "sourceSize": [
+        512,
+        500
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "hashtag": {
+      "art": "anim-atlas-07",
+      "rect": [
+        521,
+        758,
+        256,
+        240
+      ],
+      "sourceSize": [
+        512,
+        480
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "note-tag": {
+      "art": "anim-atlas-05",
+      "rect": [
+        521,
+        500,
+        486,
+        512
+      ],
+      "sourceSize": [
+        973,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "red-underline": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1439,
+        1469,
+        256,
+        160
+      ],
+      "sourceSize": [
+        512,
+        321
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "flame": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1815,
+        1557,
+        220,
+        256
+      ],
+      "sourceSize": [
+        441,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "droplet": {
+      "art": "anim-atlas-06",
+      "rect": [
+        421,
+        1039,
+        404,
+        512
+      ],
+      "sourceSize": [
+        809,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "snowflake": {
+      "art": "anim-atlas-02",
+      "rect": [
+        1810,
+        1687,
+        234,
+        256
+      ],
+      "sourceSize": [
+        469,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "icicle": {
+      "art": "anim-atlas-06",
+      "rect": [
+        831,
+        1039,
+        384,
+        512
+      ],
+      "sourceSize": [
+        768,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "bolt": {
+      "art": "anim-atlas-07",
+      "rect": [
+        749,
+        1020,
+        212,
+        256
+      ],
+      "sourceSize": [
+        425,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "swirl": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1291,
+        1000,
+        244,
+        256
+      ],
+      "sourceSize": [
+        489,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "whale": {
+      "art": "anim-atlas-02",
+      "rect": [
+        777,
+        3,
+        768,
+        532
+      ],
+      "sourceSize": [
+        1024,
+        710
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "left",
+      "large": true
+    },
+    "llama": {
+      "art": "anim-atlas-06",
+      "rect": [
+        440,
+        3,
+        382,
+        512
+      ],
+      "sourceSize": [
+        765,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": true
+    },
+    "cat-paw": {
+      "art": "anim-atlas-02",
+      "rect": [
+        1551,
+        3,
+        494,
+        512
+      ],
+      "sourceSize": [
+        987,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "teddy": {
+      "art": "anim-atlas-06",
+      "rect": [
+        3,
+        3,
+        431,
+        512
+      ],
+      "sourceSize": [
+        862,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "cake": {
+      "art": "anim-atlas-05",
+      "rect": [
+        477,
+        1473,
+        464,
+        512
+      ],
+      "sourceSize": [
+        929,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "thermos": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1664,
+        521,
+        380,
+        512
+      ],
+      "sourceSize": [
+        759,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true,
+      "grip": [
+        0.8,
+        0.55
+      ]
+    },
+    "shrimp": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1157,
+        521,
+        501,
+        512
+      ],
+      "sourceSize": [
+        1002,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "turkey-leg": {
+      "art": "anim-atlas-07",
+      "rect": [
+        265,
+        1004,
+        256,
+        233
+      ],
+      "sourceSize": [
+        512,
+        466
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "banana": {
+      "art": "anim-atlas-07",
+      "rect": [
+        3,
+        1865,
+        256,
+        172
+      ],
+      "sourceSize": [
+        512,
+        343
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "parcel": {
+      "art": "anim-atlas-05",
+      "rect": [
+        1013,
+        521,
+        512,
+        462
+      ],
+      "sourceSize": [
+        1024,
+        925
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "smile-mask": {
+      "art": "anim-atlas-07",
+      "rect": [
+        743,
+        1282,
+        188,
+        256
+      ],
+      "sourceSize": [
+        376,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "eye": {
+      "art": "anim-atlas-07",
+      "rect": [
+        265,
+        1675,
+        256,
+        182
+      ],
+      "sourceSize": [
+        512,
+        364
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "tentacle": {
+      "art": "anim-atlas-07",
+      "rect": [
+        527,
+        1266,
+        210,
+        256
+      ],
+      "sourceSize": [
+        419,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "crown": {
+      "art": "anim-atlas-05",
+      "rect": [
+        1013,
+        989,
+        512,
+        448
+      ],
+      "sourceSize": [
+        1024,
+        897
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "crescent": {
+      "art": "anim-atlas-01",
+      "rect": [
+        1807,
+        3,
+        236,
+        256
+      ],
+      "sourceSize": [
+        471,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "dragon-head": {
+      "art": "anim-atlas-01",
+      "rect": [
+        1033,
+        3,
+        768,
+        689
+      ],
+      "sourceSize": [
+        1024,
+        919
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": true
+    },
+    "worm-head": {
+      "art": "anim-atlas-02",
+      "rect": [
+        777,
+        541,
+        768,
+        494
+      ],
+      "sourceSize": [
+        1024,
+        659
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": true
+    },
+    "net": {
+      "art": "anim-atlas-05",
+      "rect": [
+        3,
+        501,
+        512,
+        484
+      ],
+      "sourceSize": [
+        1024,
+        969
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "chain": {
+      "art": "anim-atlas-04",
+      "rect": [
+        3,
+        1099,
+        512,
+        496
+      ],
+      "sourceSize": [
+        1024,
+        993
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "cage": {
+      "art": "anim-atlas-02",
+      "rect": [
+        3,
+        3,
+        768,
+        587
+      ],
+      "sourceSize": [
+        1024,
+        783
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "patch": {
+      "art": "anim-atlas-01",
+      "rect": [
+        1414,
+        1344,
+        512,
+        504
+      ],
+      "sourceSize": [
+        1024,
+        1009
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "spray-can": {
+      "art": "anim-atlas-07",
+      "rect": [
+        721,
+        1544,
+        138,
+        256
+      ],
+      "sourceSize": [
+        277,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": false
+    },
+    "needle": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1241,
+        1262,
+        192,
+        256
+      ],
+      "sourceSize": [
+        383,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false
+    },
+    "picture": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1291,
+        748,
+        256,
+        246
+      ],
+      "sourceSize": [
+        512,
+        491
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "music-note": {
+      "art": "anim-atlas-03",
+      "rect": [
+        3,
+        649,
+        512,
+        506
+      ],
+      "sourceSize": [
+        1024,
+        1012
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "feather": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1739,
+        1418,
+        254,
+        256
+      ],
+      "sourceSize": [
+        508,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "bao": {
+      "art": "anim-atlas-07",
+      "rect": [
+        3,
+        771,
+        256,
+        234
+      ],
+      "sourceSize": [
+        512,
+        468
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "fork": {
+      "art": "anim-atlas-02",
+      "rect": [
+        1934,
+        1039,
+        107,
+        256
+      ],
+      "sourceSize": [
+        214,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "up",
+      "large": false,
+      "grip": [
+        0.5,
+        0.93
+      ]
+    },
+    "six-hand": {
+      "art": "anim-atlas-01",
+      "rect": [
+        1807,
+        265,
+        236,
+        256
+      ],
+      "sourceSize": [
+        471,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "galleon": {
+      "art": "anim-atlas-05",
+      "rect": [
+        3,
+        3,
+        512,
+        492
+      ],
+      "sourceSize": [
+        1024,
+        985
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "crab": {
+      "art": "anim-atlas-07",
+      "rect": [
+        3,
+        1242,
+        256,
+        224
+      ],
+      "sourceSize": [
+        512,
+        447
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "fish-hook": {
+      "art": "anim-atlas-05",
+      "rect": [
+        847,
+        1018,
+        158,
+        256
+      ],
+      "sourceSize": [
+        317,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false,
+      "grip": [
+        0.7,
+        0.08
+      ]
+    },
+    "thumbnail": {
+      "art": "anim-atlas-07",
+      "rect": [
+        265,
+        1863,
+        256,
+        167
+      ],
+      "sourceSize": [
+        512,
+        334
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "sandbag": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1021,
+        1010,
+        214,
+        256
+      ],
+      "sourceSize": [
+        429,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "glasses": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1687,
+        1703,
+        256,
+        125
+      ],
+      "sourceSize": [
+        512,
+        250
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "claw": {
+      "art": "anim-atlas-05",
+      "rect": [
+        3,
+        1473,
+        468,
+        512
+      ],
+      "sourceSize": [
+        937,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "vacuum": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1557,
+        1819,
+        256,
+        222
+      ],
+      "sourceSize": [
+        512,
+        443
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "chest": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1541,
+        1039,
+        495,
+        512
+      ],
+      "sourceSize": [
+        990,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "cube": {
+      "art": "anim-atlas-05",
+      "rect": [
+        947,
+        1500,
+        448,
+        512
+      ],
+      "sourceSize": [
+        895,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "blanket": {
+      "art": "anim-atlas-07",
+      "rect": [
+        3,
+        1011,
+        256,
+        225
+      ],
+      "sourceSize": [
+        512,
+        450
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    }
+  },
+  "elements": {
+    "fire": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          3,
+          3,
+          632,
+          640
+        ],
+        "sourceSize": [
+          1011,
+          1024
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          521,
+          404,
+          512,
+          180
+        ],
+        "sourceSize": [
+          512,
+          180
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1815,
+          783,
+          192,
+          135
+        ],
+        "sourceSize": [
+          512,
+          361
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-06",
+        "rect": [
+          839,
+          899,
+          320,
+          128
+        ],
+        "sourceSize": [
+          512,
+          204
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "ice": {
+      "burst": {
+        "art": "anim-atlas-01",
+        "rect": [
+          1414,
+          698,
+          630,
+          640
+        ],
+        "sourceSize": [
+          1008,
+          1024
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-01",
+        "rect": [
+          1312,
+          1854,
+          512,
+          191
+        ],
+        "sourceSize": [
+          512,
+          191
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          865,
+          1796,
+          192,
+          189
+        ],
+        "sourceSize": [
+          512,
+          505
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-06",
+        "rect": [
+          1179,
+          508,
+          320,
+          120
+        ],
+        "sourceSize": [
+          512,
+          192
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "volt": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          3,
+          1261,
+          640,
+          604
+        ],
+        "sourceSize": [
+          1024,
+          966
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1039,
+          578,
+          512,
+          164
+        ],
+        "sourceSize": [
+          512,
+          164
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-01",
+        "rect": [
+          1807,
+          527,
+          192,
+          164
+        ],
+        "sourceSize": [
+          512,
+          438
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-05",
+        "rect": [
+          521,
+          1138,
+          320,
+          112
+        ],
+        "sourceSize": [
+          512,
+          179
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "water": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          641,
+          637,
+          640,
+          608
+        ],
+        "sourceSize": [
+          1024,
+          972
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-02",
+        "rect": [
+          3,
+          1888,
+          512,
+          139
+        ],
+        "sourceSize": [
+          512,
+          139
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          714,
+          1806,
+          144,
+          192
+        ],
+        "sourceSize": [
+          384,
+          512
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-06",
+        "rect": [
+          1179,
+          381,
+          320,
+          121
+        ],
+        "sourceSize": [
+          512,
+          194
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "wind": {
+      "burst": {
+        "art": "anim-atlas-02",
+        "rect": [
+          1292,
+          1041,
+          636,
+          640
+        ],
+        "sourceSize": [
+          1018,
+          1024
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-02",
+        "rect": [
+          649,
+          1041,
+          512,
+          194
+        ],
+        "sourceSize": [
+          512,
+          194
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1819,
+          3,
+          192,
+          168
+        ],
+        "sourceSize": [
+          512,
+          449
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-06",
+        "rect": [
+          1179,
+          634,
+          320,
+          117
+        ],
+        "sourceSize": [
+          512,
+          187
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "light": {
+      "burst": {
+        "art": "anim-atlas-02",
+        "rect": [
+          3,
+          1242,
+          639,
+          640
+        ],
+        "sourceSize": [
+          1023,
+          1024
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          3,
+          3,
+          512,
+          227
+        ],
+        "sourceSize": [
+          512,
+          227
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-04",
+        "rect": [
+          1819,
+          1819,
+          192,
+          170
+        ],
+        "sourceSize": [
+          512,
+          452
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-01",
+        "rect": [
+          1033,
+          818,
+          320,
+          114
+        ],
+        "sourceSize": [
+          512,
+          183
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "dark": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          1287,
+          3,
+          640,
+          627
+        ],
+        "sourceSize": [
+          1024,
+          1003
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-03",
+        "rect": [
+          1039,
+          1868,
+          512,
+          170
+        ],
+        "sourceSize": [
+          512,
+          170
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-05",
+        "rect": [
+          783,
+          1280,
+          192,
+          171
+        ],
+        "sourceSize": [
+          512,
+          456
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-02",
+        "rect": [
+          521,
+          1888,
+          320,
+          124
+        ],
+        "sourceSize": [
+          512,
+          199
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "data": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          1295,
+          1261,
+          640,
+          599
+        ],
+        "sourceSize": [
+          1024,
+          959
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1039,
+          406,
+          512,
+          166
+        ],
+        "sourceSize": [
+          512,
+          166
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-06",
+        "rect": [
+          521,
+          1955,
+          192,
+          86
+        ],
+        "sourceSize": [
+          512,
+          229
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-06",
+        "rect": [
+          1365,
+          1937,
+          320,
+          97
+        ],
+        "sourceSize": [
+          512,
+          155
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "paper": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          641,
+          3,
+          640,
+          628
+        ],
+        "sourceSize": [
+          1024,
+          1005
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          3,
+          426,
+          512,
+          172
+        ],
+        "sourceSize": [
+          512,
+          172
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1223,
+          1678,
+          191,
+          192
+        ],
+        "sourceSize": [
+          510,
+          512
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-03",
+        "rect": [
+          1557,
+          1866,
+          320,
+          114
+        ],
+        "sourceSize": [
+          512,
+          182
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "sugar": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          649,
+          1261,
+          640,
+          601
+        ],
+        "sourceSize": [
+          1024,
+          961
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          3,
+          604,
+          512,
+          161
+        ],
+        "sourceSize": [
+          512,
+          161
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1800,
+          1834,
+          192,
+          113
+        ],
+        "sourceSize": [
+          512,
+          301
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-06",
+        "rect": [
+          1039,
+          1937,
+          320,
+          102
+        ],
+        "sourceSize": [
+          512,
+          163
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "gold": {
+      "burst": {
+        "art": "anim-atlas-03",
+        "rect": [
+          1287,
+          636,
+          640,
+          619
+        ],
+        "sourceSize": [
+          1024,
+          990
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          3,
+          236,
+          512,
+          184
+        ],
+        "sourceSize": [
+          512,
+          184
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          527,
+          1790,
+          181,
+          192
+        ],
+        "sourceSize": [
+          482,
+          512
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-02",
+        "rect": [
+          847,
+          1888,
+          320,
+          124
+        ],
+        "sourceSize": [
+          512,
+          199
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "rgb": {
+      "burst": {
+        "art": "anim-atlas-04",
+        "rect": [
+          3,
+          3,
+          640,
+          582
+        ],
+        "sourceSize": [
+          1024,
+          931
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          521,
+          3,
+          512,
+          201
+        ],
+        "sourceSize": [
+          512,
+          201
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1618,
+          1834,
+          176,
+          192
+        ],
+        "sourceSize": [
+          469,
+          512
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-06",
+        "rect": [
+          1179,
+          757,
+          320,
+          116
+        ],
+        "sourceSize": [
+          512,
+          186
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "sand": {
+      "burst": {
+        "art": "anim-atlas-02",
+        "rect": [
+          3,
+          596,
+          640,
+          640
+        ],
+        "sourceSize": [
+          1024,
+          1024
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-03",
+        "rect": [
+          3,
+          1871,
+          512,
+          172
+        ],
+        "sourceSize": [
+          512,
+          172
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-01",
+        "rect": [
+          1830,
+          1854,
+          192,
+          191
+        ],
+        "sourceSize": [
+          512,
+          510
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-05",
+        "rect": [
+          521,
+          1018,
+          320,
+          114
+        ],
+        "sourceSize": [
+          512,
+          182
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    },
+    "impact": {
+      "burst": {
+        "art": "anim-atlas-02",
+        "rect": [
+          648,
+          1242,
+          638,
+          640
+        ],
+        "sourceSize": [
+          1020,
+          1024
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": true
+      },
+      "mark": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1039,
+          207,
+          512,
+          193
+        ],
+        "sourceSize": [
+          512,
+          193
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "chip": {
+        "art": "anim-atlas-07",
+        "rect": [
+          1420,
+          1834,
+          192,
+          190
+        ],
+        "sourceSize": [
+          512,
+          506
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "none",
+        "large": false
+      },
+      "trail": {
+        "art": "anim-atlas-01",
+        "rect": [
+          1033,
+          698,
+          320,
+          114
+        ],
+        "sourceSize": [
+          512,
+          183
+        ],
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "facing": "right",
+        "large": false
+      }
+    }
+  },
+  "common": {
+    "guard-barrier": {
+      "art": "anim-atlas-01",
+      "rect": [
+        3,
+        3,
+        1024,
+        935
+      ],
+      "sourceSize": [
+        1024,
+        935
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "dust-cloud": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1221,
+        1210,
+        512,
+        271
+      ],
+      "sourceSize": [
+        512,
+        271
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "ground-crack": {
+      "art": "anim-atlas-03",
+      "rect": [
+        521,
+        1871,
+        512,
+        171
+      ],
+      "sourceSize": [
+        512,
+        171
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "shock-ring": {
+      "art": "anim-atlas-07",
+      "rect": [
+        1039,
+        3,
+        512,
+        198
+      ],
+      "sourceSize": [
+        512,
+        198
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "smoke-puff": {
+      "art": "anim-atlas-04",
+      "rect": [
+        521,
+        1541,
+        512,
+        495
+      ],
+      "sourceSize": [
+        512,
+        495
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "hit-star": {
+      "art": "anim-atlas-05",
+      "rect": [
+        1535,
+        3,
+        490,
+        512
+      ],
+      "sourceSize": [
+        490,
+        512
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": false
+    },
+    "speed-streak": {
+      "art": "anim-atlas-07",
+      "rect": [
+        521,
+        210,
+        512,
+        188
+      ],
+      "sourceSize": [
+        512,
+        188
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": false
+    },
+    "muzzle-flash": {
+      "art": "anim-atlas-02",
+      "rect": [
+        1292,
+        1687,
+        512,
+        336
+      ],
+      "sourceSize": [
+        512,
+        336
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": false
+    },
+    "guard-barrier-side": {
+      "art": "anim-atlas-04",
+      "rect": [
+        1666,
+        3,
+        361,
+        512
+      ],
+      "sourceSize": [
+        722,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": true
+    },
+    "dragon-segment": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1221,
+        895,
+        512,
+        309
+      ],
+      "sourceSize": [
+        1024,
+        618
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": true
+    },
+    "dragon-tail": {
+      "art": "anim-atlas-07",
+      "rect": [
+        521,
+        590,
+        512,
+        162
+      ],
+      "sourceSize": [
+        1024,
+        324
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "left",
+      "large": true
+    },
+    "rainbow-beam": {
+      "art": "anim-atlas-01",
+      "rect": [
+        794,
+        1718,
+        512,
+        318
+      ],
+      "sourceSize": [
+        1024,
+        635
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "storm-ring": {
+      "art": "anim-atlas-05",
+      "rect": [
+        1531,
+        521,
+        512,
+        455
+      ],
+      "sourceSize": [
+        1024,
+        910
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "nova-ring": {
+      "art": "anim-atlas-06",
+      "rect": [
+        828,
+        3,
+        512,
+        372
+      ],
+      "sourceSize": [
+        1024,
+        745
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    },
+    "grease-drop": {
+      "art": "anim-atlas-06",
+      "rect": [
+        3,
+        1039,
+        412,
+        512
+      ],
+      "sourceSize": [
+        823,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "right",
+      "large": true
+    },
+    "contact-slash": {
+      "art": "anim-atlas-06",
+      "rect": [
+        1039,
+        1557,
+        512,
+        374
+      ],
+      "sourceSize": [
+        1024,
+        749
+      ],
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "facing": "none",
+      "large": true
+    }
+  },
+  "provenance": {
+    "title": "프로젝트 자체 제작 AI 일러스트",
+    "license": "PLEASE",
+    "manifestSha256": "eefd28407cbb45d2855be5e89d9d84432e1455d688bf0a20f1892a046801a387",
+    "profile": 1,
+    "sources": {
+      "fist": "f6da5d0e94943ec0920d9b05ad0883e4a3a9a5b72e3ff937cfb400699a5022d6",
+      "keycap": "943bf7a8a70e84984b2abedfda587d2ea159111ca0360c58104baa706e282d52",
+      "enter-key": "3a25312450ddcca11f0c47c95a43c64f0e3d124da6547f4853c6ce5d82336830",
+      "hammer": "3a3c61522074086c8f8120b7cf15cfc321c4ca240503fded48e922bc0898ded3",
+      "wrench": "2f66a1fffb0ca436102d5fa9b1f57db91bf68f8952f3b21933fcd73a0d0caeb8",
+      "chip": "6c879b4ecae00b0d55e1ea96b0adaf0c3c2ae69202751ddcf467bfe9dc8d60a9",
+      "cooler-fan": "9dc0a71d4a722921b2aaee0f851c842b3cf41029256d896639440468f8e08193",
+      "radiator": "c2e85c97dd1d47eec66683c2b58b2de1646256e81708ad5c4f582e6a24d23a88",
+      "plug": "b6c4ffcebd4f4b6d3d549fce93a640f4245398994fe79dea94fbdfa3fa60dcb8",
+      "cable": "f899f7ebb1466c2e61f0d15e577084b0c5cb7c553dd2c2c0339db994988eda64",
+      "battery": "6eb9593cde6fa3e4602f074e8246f2e3204d0869cff761e698ac1ef075debaf1",
+      "server": "30ed90f459949f3a087caacceaf28c905f3e5d3259544c002a175708c77bfaf7",
+      "drill": "fa1013d071c4608ee8052f4c33fb58bf9c657f7a26f57ba23ef98cc1442fd52a",
+      "saw": "10dc40d7ad602161d18afe9c6fdd71cf5b846a8c4ccc6d52c354c258d771cd44",
+      "gear": "03968cff17e62818ada8bbe592343752941cb21780a03e1be1b90d69b275f8c8",
+      "anchor": "cfd97b314564f0991febb2f91df5c975e9420f0e110b0f3410b295267f22faae",
+      "shield": "c736fa4ebd662fe89afc57f1e0934d7a397c704d1074aa8dc990a0f2c89710ce",
+      "sword": "f1b0305f4ffda14f2d91882cb5283607b0c64a63a1cad213e5bdbe7091c973ab",
+      "dagger": "e5108ced36f9aca50f938b06a059f67dceaa8d1e56dd70dd10cc024ab88d86e5",
+      "rapier": "69cf416ac0a402b062ffada030359e5b0b17641ca2ff8536dd4e9970f4a38e45",
+      "lance": "1179dd0ee6afe9b55777f0833332f3cabd14d59ff357d4dc1e34c7a822ecf74c",
+      "hairpin": "15dc2ea840457aa36a79cd1c820df0e865de9fe9fa4aa3b4bc18f7bd93fd82a4",
+      "folding-fan": "df453ec6aabe5de30898d79f9a13ebf01d109a634965fccba36d112e9f22eb6f",
+      "broom": "390c05e012a3b45b72642c855f87215d05ae3ddfec3af9bf592e408dde9293b1",
+      "shuriken": "f8008c79a187d94c1376169fcd4c22f9412107f4bda0e1f7b2907ddeb2bf53c5",
+      "missile": "6bcf4f0d2f28cec8fe9b39464472b5c6c5ef61d26d100dc2ff14d3b4b876cf2e",
+      "bomb": "820972a773b0dc00e72dbaa366c926a87ec9a8be9d7b3cb1504dd531ea4c01f9",
+      "satellite": "9b289d5799688a4bf01c558bac2183bcc84e5098fd078bce4c481cd70ba13336",
+      "bike-wheel": "374a7d08abea366d87dbc80f1b30d11a835872e7d417413fb32a3c472acbb20e",
+      "drum": "00a6f06787af76b04203095484f10bdbd66f1c6f47db86f9e67f26b667396d1a",
+      "window": "0f9ca8f2dd4f0def960484a6ab08d6896daafecd85e8755db135c423ce5b65c2",
+      "error-window": "eb33dc6f706a361233c16f5814933fac5aaf85032e4256ff855d9fe4668ddc11",
+      "terms-window": "a2ecd3d0dc4383038327e59c4a1589d729052940883cef2fb13789b45572b7d5",
+      "cursor": "61db9383509d7b2652fdeed511b9ca7df40cc6c9f98b725278452d621c8052e5",
+      "magnifier": "3770c0cf7c90607282d214e3e73a88f08e710596e0a88c9eb53853e0e2a224a0",
+      "bell": "92f14f6e6043eae49df72117876bd2b40f7d2ba8ae70b2b78295e66b2c5fea14",
+      "badge-number": "193eac499fb4d0de8956114fd615cb1c6cca245902851120d7810c8b8bdc7ba2",
+      "heart": "2d524a1f6230a7bd7daa66bc0e0dd5aa3e5f838b7f4720daa27edbdb3de65440",
+      "thumb": "c82b7abc27051ce47455352609612ba4cc765bcbb4c35ad4ac20a1a99add081f",
+      "star": "d11a600f38c6e76c5bcd2b6a29b97d380fa432bc86582e32f4a2f5f735357158",
+      "speech": "a66107d309aa4c53e0bf1c99e42388f2c2f761de4d40eb4e5746e01d8c4791c9",
+      "mail": "9b41c6d93b8b6627d1db006f04ae4455eccb99868d83ff566af885433050101f",
+      "link": "0c235a97d7e147f12ea3626b52b28271f320f0a0ac6323becd46edc21f525e7e",
+      "cookie": "17c517779d84a9fc69220b79288249ebff59cd660b461ebd6a5a29629c86f4c2",
+      "check-badge": "da273424e8128afe28ad76d6a38399386b23cc274b07bcdb0070c50e83ade517",
+      "coin": "40161ed39d790079fdb5949b30d65ed7c5ecc291b1176d1dce5e43a237f727c5",
+      "paper": "73c94f89220fa5cfcc849d058ebb24d3c4d7ba94cebb4b6c70cb8753e2b28d55",
+      "scroll": "a1e10e8a2bcaa41191b0830754a13d4725b4a3a19fb530053e6e4d46a4819276",
+      "book": "8bb1da5a030a664d449c8d9352b3e667bf09296708144fafb37248b9a8d20b6b",
+      "stamp": "72eb252833fe03749f5d197f8059ed930b72a0dcd4526c333aab278d66ed5279",
+      "gavel": "08ebe8850ef8806f41204c3e83c700c42c4dff3a67de85b77b9d68785ab7bd82",
+      "play-button": "8d078b316353e5538a366db327549a0d0a637fc8100c8ca1fce408cd88bf601f",
+      "spinner": "a4a50661bd8388b573bc8a85c5edaef6088506d707eb9bf5f2ad72bad8ea98d0",
+      "token": "cb404ed66b6e9b9131a69a4265076ae0a2492363cb760e3c4d1e0d138b6977ac",
+      "pixel": "0684fe2cc13caa8e8d87149572fc979bfe72a1c71abb98c962ddbb6a1c4c6bc3",
+      "hashtag": "4a1a3ecfc0370942089296e4c46fa3d7d8760a5c881cafa43a36c061dd1c3c6f",
+      "note-tag": "bc70f02926deef7d5a72e1f9d3e6eba43c005fbf7e5037b650578b29cbf1c8bb",
+      "red-underline": "0b70bce5ec9ab1a8847bf89ccff3605a8335663e815c9936aedfde7fa5cce7eb",
+      "flame": "366da9d9f88a863ee57bdc303e832599e13953a9ce958ec3a9923353c8f5122a",
+      "droplet": "01e4902f19e45f930e190ce7a50d9bebac3eb3ca068daccb2bec68ee9e072799",
+      "snowflake": "9e5261b775b2286385a2b54bffb5f44c326430ecbf539845d240691691839e2e",
+      "icicle": "83e4d691a86609a0251e5070665bcf8438d7a94ad6e02f7ddae25d28d8ee3c30",
+      "bolt": "f00ee4536c0df07cb53f2d8129c0145a76891b4457f3bb017f96d94e3aaa8d22",
+      "swirl": "42f54ca5a53d97ce8d00fcec45283b6db0b2a74d88febb96a96c1d9461af50fd",
+      "whale": "f24b6bc544bafecb145f957fc1738eee8e25fd53d365df98c10331137b279865",
+      "llama": "6a4818ef6b2e23629826d7f805dcb9eff45a3718513901560aa9af8c56d793e8",
+      "cat-paw": "5156c76334108816f2f073411348323cb9906267098714f2ed4510c0d1026e00",
+      "teddy": "fae6b3de6d2f056d4c47912607a5865f4a28de81c82f89fd7c5ae6a2667d5328",
+      "cake": "61f261ed4e2429106189a5e6542c509cffba3375ee7e1e626496528747cbdbfe",
+      "thermos": "02533c7fe81ebf0db76bfa12f79ad8dd24928385af8276d8195c407a1e5ec53d",
+      "shrimp": "4b193818894f125d68d1286513a709c82d098367e1189b99fd6a6d4edc7de16f",
+      "turkey-leg": "c6f22950f4ee1edd11afb278bab4a9a5739e1e52ac83f065679553ed7a3a7aa5",
+      "banana": "2a2e79f8f2c49de42ecd71fa7c1688d1af8ab4b71546d0206f42f2de3fd1c61d",
+      "parcel": "5a96598ec1d058caf5bff2e0964938ab58f4f3eb10c35427851c7e9aa5a0674e",
+      "smile-mask": "7119b21e928423c86f686b34f65b16d35feef2c906e9be2b7171f6d2025f408a",
+      "eye": "7c11c1a9b53fe81470844d1e3bba6dfc4bb6c15ed556ccac75cb528bf455cfbe",
+      "tentacle": "3f61dbad600664eec3b34aa3a788c2c3fdbe39b275fb8f0a63e4f84f81f7a307",
+      "crown": "c344b759fceb72380b6679c21ba6098ae6537fb8d2c98f3e258b212ec8f7ee04",
+      "crescent": "a67a8e273e97a5d1f0318096a73ea440469b548e717d9da91b456028c2241c9d",
+      "dragon-head": "cb079013092b79e18d3531344f11627d04ce51356107e16fc6263ada39a78575",
+      "worm-head": "c4c459ee9740609b6f5394959dadf5529c8b6d093fbc3186cdb35b81d800918e",
+      "net": "871be74780c2a567189c97826f7d6a8329a0e840835aa9a34fd1b14fe64808dd",
+      "chain": "5ece5b6c0cbc5def49cc83b13f677e4c41dd329ed6f51e70ec23af5ea9f7ff72",
+      "cage": "a189e79357be5e29e730e49547e88dd6dcf1afcadf9715da7e1f6dc1d1644235",
+      "patch": "bfd1161aca22ea8b60548755caa8dc3e198cfe4bf0d6af364377353994afb0d2",
+      "spray-can": "2b6d0a3d878f869fe28c0c7d01da7620246e31575ffc3e3080c1dc1b06295f45",
+      "needle": "54b2f072ac5a6649d9bea988683e713289d9dfccad2638f2caf235f55ce67995",
+      "picture": "e99178b12fb0633c3a65ebebbca98c677b3629c6433693b29850dd9c1582a5b6",
+      "music-note": "964cf34ad03cf4ef4ef47e02db2a47a94b6a98ce2a8fa854793fc42f4bd57da7",
+      "feather": "77534ed7bec81f8f3031dc38a681159e05a2c4f2fa6798b2c37615b160994e09",
+      "bao": "a0b985d8147e2b0663e7fdb188e49419cbaaed9018c36a331e4c9be244792041",
+      "fork": "d4337a2f28544018f04ff5b36e0b6ef19271518961f384467e294cf57a49a535",
+      "six-hand": "5deb207fe1ee790ebc7af7088fd1656f1bd8b340b2a1a6a7c495b4134513873c",
+      "galleon": "8d8c57e4a6264efed3b2520e5ad0ff76253c669aca7501e96c3384dadfda8a23",
+      "crab": "cce7555926502944b83b1d0d5ca1ceaf4e6f02d84bf48c47bcaa07ba28a2bac9",
+      "fish-hook": "f982628144ceda977ba305dc73dd5e76f27bfdeeda2280b1370ae1e0631fe6b1",
+      "thumbnail": "ef9200c1d22a967a2977e4c454a7bc20b2872e052b81d03d9b7d1830cb74038b",
+      "sandbag": "319dc03da6322fe5a273e21510ae038abd66816dede8627bf8df82e97e47110d",
+      "glasses": "2e06bb5aa4dd75c2df04329104716258923626a0a9d2df70f4cf2099abdddf81",
+      "claw": "f1c608644a6965f5f6f4934abe608b9df8955a26fd7236682dc1a8955b0a3bc9",
+      "vacuum": "1241868769844804307038bbd1ab1986fb79861d2930f8441d3733026aa768a8",
+      "chest": "a555629e9ec01f78ab0084eca88b05c30e2380f3d5d23454bbce6aff1bb89c7b",
+      "cube": "91bb649489e190a50dcfde236280acf799171a7e98c9fe582f35534b4d0c127c",
+      "blanket": "24234782b5bfc2b949a05301f4e9092efbef9c745a4c7c6b571254fe474d33e1",
+      "fire-burst": "4edf8c5565c2c2a4a89b455f121bd6479d8171f84c8554dbdd39955953f835ed",
+      "fire-mark": "d81d11891015606f123746f7bfd4d969ad1e7b256b47cc752147cb8c1419e21f",
+      "fire-chip": "379b83175fda569347c97d65324a7303b3a84468bb6202dc019f778f6a8e5c0a",
+      "ice-burst": "f03299c530a2224c5fdd6ac42d0fccec48162cf1ae42e8d89c02c3c3ccbbd75f",
+      "ice-mark": "fbcc61d5b96e29000a72de61c22a80377d14fc5fcc444b3c348d1b12729b5392",
+      "ice-chip": "8db4ea756c1f0ce1f2a25b03ee1238fba37d08956c1f16c172e42d4cb850eb5a",
+      "volt-burst": "46fda25090faca492c023c2f7d257246646ed09cefdfb0a9939730b4218b0910",
+      "volt-mark": "87e2a15b809948a887324900910e87761140d22914c0a23ec42187149557ca28",
+      "volt-chip": "6fe8e001e8eb815101f97eb03fb5801b6b71d0273b65dee95a63981a504fab61",
+      "water-burst": "eb1dd58afacf26cf23f0ed015c940c07446abb4b899f62a75d1c4eda6158936a",
+      "water-mark": "b8fcf562f2dd5d89cc4bd9b54becbf24c073d3585a3729a8efbe4e19747b1e8b",
+      "water-chip": "b70717e6c5081bd005afa27502ae7e384ada4476f3e08c64afe883489102cd98",
+      "wind-burst": "2358853cd91b90d1cff246e0a5d2e84c6a1dd0431100b1f81ba6103f2a51023f",
+      "wind-mark": "3ff0c883bce78277930cc1c80ce315599a672ec70412bad64e819f564d981465",
+      "wind-chip": "14a52e73bf3a3e99997b741296b593026f915da730e751b625830598222d5545",
+      "light-burst": "5dfad8a26caaf12480ae28a53e19adb7f72bf48862e7d30774b2a8e2c8a34d00",
+      "light-mark": "207cfb5cb68b1ac85db0afd13ed46d2237cceb28e34b3bf027ba9259a8314d6f",
+      "light-chip": "751ff791b82bc800c68717ae9707bf0b1b07035d93145fe675ae9cb9f36f5758",
+      "dark-burst": "63d0ecd643292aa0c6e39b98d5ad6baeead4071d5f1114f8dc787857479467a7",
+      "dark-mark": "04caf68142ebede1bbd330f8929db177fa7a152bde80c1481ff24a48bf70f73c",
+      "dark-chip": "3f06cca3e6d0737a14fc766661e691fd624e8c9a4933e9eda2beb23543115966",
+      "data-burst": "b9edaf57d8730e561394e4edd492e5cb009c21434fc14c7e0ad30ddad200453e",
+      "data-mark": "8d99eed1d8f4deb02c475fbf19a6bfdab9b7ed6dbd001b3c86d618d2b56e8595",
+      "data-chip": "61b5ee6e1ea37c062dfaa0a8d63fc483e68226e6a7ddb396642a9db8b063ef48",
+      "paper-burst": "282e0ec56f0bb8904153edcc06884ab5d99450e58edcbd96a5804def89d84985",
+      "paper-mark": "5b2b96e86fe4e87e139eab22e0be5df9c9ad73fd2e6541317f041d468a499e6e",
+      "paper-chip": "3867533ab3b315c0bb59ff65548bd1b0f68c4e75ab05768faef97fa126487d33",
+      "sugar-burst": "ca2986ef5c4e773b6abf2b42ad306edf497243b5b6a575e90d3f44976e7ada37",
+      "sugar-mark": "c0218a1f237c0d6bf8b78b697c1c17d5298c8dd3d1f5ad42ed3f1ee221e1d3b1",
+      "sugar-chip": "8e3482c986ffb04cf4b41731bb837b570cd560847c1f12cf1a746e50b2a9669e",
+      "gold-burst": "b61b0f87d64760808bc6e8d230de8554c0ee023eb09f14e56fe27525cfad5660",
+      "gold-mark": "e0f0999dc0a2567a9f30ccefb77971474b73755c58371db6ff0fd90d88b5b782",
+      "gold-chip": "3d231e4612506b8b0ef648e0fec089c4d7a3c78263aa897e66c693da89854855",
+      "rgb-burst": "4f08133cba924b37d0fa353275ce81899e5bcd304c57dd8453d0842f87b144d8",
+      "rgb-mark": "42e3640721a299de0b04e71837ce5d698236eba22296443f2052e1a475b03985",
+      "rgb-chip": "18147f045633eab36e3ebe1ee61c7a59506311e06ab7fd5557791bfc0be267b4",
+      "sand-burst": "6b5485b5562f08c9ff6a276fad973b3a2f94b388c55216851f169aa948ae5a21",
+      "sand-mark": "7f810ff46f8c828e6842f6a5e672e69c6dfa36a2b6f447de666e3bcad2919a5f",
+      "sand-chip": "5e8a45c79583182bf4c4c62619b1d2ba4cfba83b6b9736b16ec227cd6269faf7",
+      "impact-burst": "be9049c8aa0819dc4e408d74aef970a6507d3660394fc70399f53dfef771ecc2",
+      "impact-mark": "d05ab4c41a996fbd13683cb8295969b8bfba943feca786fe2fe9dc93007aab1c",
+      "impact-chip": "6598fdd84c0ea32131a9651bbebe0400954324a1dc497b3d8f59112126c397fe",
+      "guard-barrier": "d4af84155f5dfa8e81566e67bbd468ab0bbae024c328b2d87fe438c52a6bd190",
+      "dust-cloud": "83a5a49e3a14460806105aaf2b6229487d67051cca08dd059321ab4c178d286e",
+      "ground-crack": "b1d72b96b9c71db7a9d2531953177f5bd88611185f7e7d8c37a4bb3a6b280bbf",
+      "shock-ring": "d5266f001edd948dc81b3ace2543c347470ef89bdae27a3561952e30f7e53517",
+      "smoke-puff": "9f692db892198383468dea3e2ede0c83c4a5714ada4bfb8141348c7748a20e1d",
+      "hit-star": "d469fa04122ae374a9c4a53d9ed7b1042c22533c6df1aeb0dd36b4de44b9f17b",
+      "speed-streak": "69e97a00b76eb69a10a171137aa30b41f79bbea4a6268c0b8b55cca9ffa3a425",
+      "muzzle-flash": "c38fb7011b54a2f2a98bbc8792e7f14e226050846cb0e23e86b9a56d5c622380",
+      "guard-barrier-side": "37058be65597e9f907931c7d6db6d0ab551aed338793770247a83f58c5e61cda",
+      "fire-trail": "534094972a983395d13c64a85c28aaedc478b7a01562a4dfa0f86777be6499c2",
+      "ice-trail": "0b393569914377b7e9ee1756f833609337489a7b76ff26f3c203a5bd0a998a12",
+      "volt-trail": "25582989f2c36d704689f6da1259c534fe3dcd133b8690dcc89692e79b0ca8be",
+      "water-trail": "2b5035f068cd56f4296f001ba7f43d85fbfe15e2593b99d0cbbcb4b4b2e030be",
+      "wind-trail": "4f054ecf6d8ed17fe2ab30ead3f2346ca11f2a43fd21c3d597309b861bb86f8b",
+      "light-trail": "e339ee290f89de2b439c7a8d8f75274650db44c5e26031bca2cdc5033f1c0eb0",
+      "dark-trail": "c10f740607040908a3579dfba13e324d3cda4776c106e93b1eec35be3b26263c",
+      "data-trail": "e3a8f35fe84ee6848e45721faa00a2c2be2ccf54cac625fe5e42e6f80853cefc",
+      "paper-trail": "d8d3ef13c977dafcf9a2b8fd8d29700a3c6547a66d0d98a88fbba05b61d815f7",
+      "sugar-trail": "037949f216fe72cf8690f1d879469378b1523562dbf1f10e21a33762a0e3a5f2",
+      "gold-trail": "154d3dfe00bc07246397c0b15db1fa6b4ead15d09e23f297e8689201f0f2b657",
+      "rgb-trail": "b777d39f82021cd43377931beb697d0206c0600e971a1ba5a1dde3e6d7d0aaf5",
+      "sand-trail": "b40320d165f7f1aee8b8d12fd699d79cfaea74a06c4724f34dbbd117d197916c",
+      "impact-trail": "475ccaadafb6510e7015f475aebcf0b2914f022b9c2db4bdf9dbfce49d9c4c50",
+      "dragon-segment": "9b25313db6959c5f45cbdafb4adfebcbabd4ffdfaaa4acbbcfb04578b08c4036",
+      "dragon-tail": "6f01f5ee5e7bf1ed2b9ce84fd5dc422b5eb71e9cba2e5b01027049f00ba6bd71",
+      "rainbow-beam": "363db13b1796cabdc7892481683e9fb0b3c1661a8a7266455764342b6e653b2b",
+      "storm-ring": "e247f98a0aa0d197db093c0e8f2c1e0a6e7b8940902210b66bb7655042c6a653",
+      "nova-ring": "0f772863de42499ec4dbab51caddf6c5aa16643f1340e32fb7f5a3c191547594",
+      "grease-drop": "c8605095d6cffe2bb822dd4a3a1b5db724cdad7125dedfd7cfc31e4a1b40cc55",
+      "contact-slash": "a30b5f05031776c249025dafb03a040f5ead983c51cfe53b78b75b72ed5e93c7"
+    }
+  }
+}
